@@ -5,7 +5,7 @@
 
     <groupId>com.web</groupId>
     <artifactId>webservice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>RELEASE</version>
     <packaging>war</packaging>
 
     <name>webservice</name>
@@ -75,12 +75,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-tomcat</artifactId>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-test-autoconfigure</artifactId>
-            <version>2.0.2.RELEASE</version>
-            <scope>test</scope>
         </dependency>
 
     </dependencies>
